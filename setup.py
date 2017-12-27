@@ -9,5 +9,5 @@ setup(
   url = 'https://github.com/appcoreopc/miaUtil', # use the URL to the github repo
   download_url = 'https://github.com/appcoreopc/kepungmath/archive/0.1.tar.gz', # I'll explain this in a second
   keywords = ['util', 'python', 'flask'], # arbitrary keywords
-  classifiers = ['util'],
+  classifiers = ['Development Status :: 3 - Alpha'],
 )
